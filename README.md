@@ -3,7 +3,7 @@
 ### 🧠 Backend Engineer | Toolsmith | Systems Thinker | Lifelong Learner  
 
 Hi, I’m Abdulmumin — a backend engineer with an unconventional background in **pharmacy**.  
-I’ve gone from filling prescriptions to building production-ready APIs and backend infrastructure.
+I’ve gone from filling prescriptions to building production-ready APIs and resilient backend infrastructure.
 
 Love learning and solving real-world problems with technology. My focus is on building reliable, efficient systems that are easy to maintain.
 
